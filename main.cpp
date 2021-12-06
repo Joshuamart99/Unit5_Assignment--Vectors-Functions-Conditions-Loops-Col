@@ -1,3 +1,10 @@
+//Student Name:Joshua Martinez
+//Teacher: Dr. Tyson McMillan
+//School: Tarrant County College
+//Date: 12/02/2021
+//Purpose:A program to practice working with vectors and arrays
+//Learnt: I learned to work with different programming elements and combined them in a single program.
+
 #include <iostream>
 #include <string>
 #include <vector>
